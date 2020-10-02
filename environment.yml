@@ -1,0 +1,19 @@
+name: railway-announcement
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - pip
+  - python
+  - jupyterlab
+  - pandas
+  - pyaudio
+  - pip:
+    - gTTS
+    - playsound
+    - pydub
+    - xlrd   
+    
+    
+    
+  

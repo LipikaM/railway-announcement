@@ -1,0 +1,1 @@
+Inspired by Aniket Sharma#s blog on indian railway system announcement, I created this repo to test the python package on audio sppech synthesis.
